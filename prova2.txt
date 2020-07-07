@@ -1,3 +1,5 @@
 Provant si el fitxer es puja correctament.
 He canviat de master a branch1.
 Ara faré commit i push.
+
+Hauria d'estar modificant a la branca master.
