@@ -1,0 +1,5 @@
+Provant si el fitxer es puja correctament.
+Hauria d'estar modificant a la branca master.
+
+Ara farem git merge.
+Torno a repetir.
