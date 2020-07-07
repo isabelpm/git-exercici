@@ -1,5 +1,8 @@
 Provant si el fitxer es puja correctament.
 Hauria d'estar modificant a la branca master.
+<<<<<<< .merge_file_oR1bAQ
 
+=======
+>>>>>>> .merge_file_VuRoEz
 Ara farem git merge.
 Torno a repetir.
