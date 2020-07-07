@@ -1,1 +1,2 @@
-Provant si el fitxer es puja correctament
+Provant si el fitxer es puja correctament.
+Hauria d'estar modificant a la branca master.
